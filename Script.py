@@ -268,14 +268,15 @@ Nᴀᴍᴇ - {}
 
     PREMIUM_TEXT = """<blockquote>🎖️ <b>ᴀᴠᴀɪʟᴀʙʟᴇ ᴘʟᴀɴs</b></blockquote>
 
-◉ 07 ᴅᴀʏꜱ - 15 ₹
-◉ 15 ᴅᴀʏꜱ - 30 ₹
-◉ 01 ᴍᴏɴᴛʜꜱ - 60 ₹
-◉ 02 ᴍᴏɴᴛʜꜱ - 120 ₹
-◉ 03 ᴍᴏɴᴛʜꜱ - 220 ₹
+
+🥉 Bronze – ₹40 = 1ᴍᴏɴᴛʜ
+🥈 Silver – ₹75 = 2ᴍᴏɴᴛʜ (save ₹5)
+🥇 Gold   - ₹110 = 3ᴍᴏɴᴛʜ (save ₹10)
+💎 Diamond– ₹200 = 6ᴍᴏɴᴛʜ (save ₹40)
+🏆 Platinum–₹800 = ʟɪꜰᴇᴛɪᴍᴇ💥 
 
 •─────•─────────•─────•
-💵 ᴜᴘɪ ɪᴅ - ⚠️ <b><u>grezy8007@okhdfcbank</u></b>
+💵 ᴜᴘɪ ɪᴅ - ✅ <b><u>grezy8007@okhdfcbank</u></b>
 
 🏷️ <a href='https://t.me/+blcE2jS-iGtkMjNl'>ꜱᴜʙꜱᴄʀɪᴘᴛɪᴏɴ ᴘʀᴏᴏꜰ</a>
 
