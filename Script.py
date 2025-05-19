@@ -272,11 +272,11 @@ Nᴀᴍᴇ - {}
     PREMIUM_TEXT = """<blockquote>🎖️ <b>ᴀᴠᴀɪʟᴀʙʟᴇ ᴘʟᴀɴs</b></blockquote>
 
 
-🥉 Bronze – ₹39  = 1ᴍᴏɴᴛʜ
-🥈 Silver – ₹75  = 2ᴍᴏɴᴛʜ 
-🥇 Gold   - ₹110 = 3ᴍᴏɴᴛʜ 
-💎 Diamond– ₹199 = 6ᴍᴏɴᴛʜ 
-🏆 Platinum–₹599 = ʟɪꜰᴇᴛɪᴍᴇ💥 
+🥉 Bronze   – ₹39   = 1 Month  
+🥈 Silver   – ₹75   = 2 Months  
+🥇 Gold     – ₹110  = 3 Months  
+💎 Diamond  – ₹199  = 6 Months  
+🏆 Platinum – ₹599  = Lifetime 💥 
 
 •─────•─────────•─────•
 💵 ᴜᴘɪ ɪᴅ - ✅ <b><u>grezy8007@okhdfcbank</u></b>
