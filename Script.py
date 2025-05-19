@@ -129,7 +129,7 @@ class script(object):
 #ᴠᴇʀɪꜰɪᴄᴀᴛɪᴏɴ:- 1/3 ✓
 
 ɪꜰ ʏᴏᴜ ᴡᴀɴᴛ ᴅɪʀᴇᴄᴛ ꜰɪʟᴇs ᴛʜᴇɴ ʏᴏᴜ ᴄᴀɴ ᴛᴀᴋᴇ ᴘʀᴇᴍɪᴜᴍ sᴇʀᴠɪᴄᴇ (ɴᴏ ɴᴇᴇᴅ ᴛᴏ ᴠᴇʀɪꜰʏ).</i></b>"""
-    
+✨ To remove verify, send /plan 🚀   
 
     VERIFY_COMPLETE_TEXT = """<b><i>👋 ʜᴇʏ {},
 
@@ -144,6 +144,7 @@ class script(object):
 #ᴠᴇʀɪꜰɪᴄᴀᴛɪᴏɴ:- 2/3 ✓
 
 ɪꜰ ʏᴏᴜ ᴡᴀɴᴛ ᴅɪʀᴇᴄᴛ ꜰɪʟᴇs ᴛʜᴇɴ ʏᴏᴜ ᴄᴀɴ ᴛᴀᴋᴇ ᴘʀᴇᴍɪᴜᴍ sᴇʀᴠɪᴄᴇ (ɴᴏ ɴᴇᴇᴅ ᴛᴏ ᴠᴇʀɪꜰʏ).</i></b>"""
+✨ To remove verify, send /plan 🚀
 
     SECOND_VERIFY_COMPLETE_TEXT = """<b><i>👋 ʜᴇʏ {},
     
@@ -158,7 +159,7 @@ class script(object):
 #ᴠᴇʀɪꜰɪᴄᴀᴛɪᴏɴ:- 3/3 ✓
 
 ɪꜰ ʏᴏᴜ ᴡᴀɴᴛ ᴅɪʀᴇᴄᴛ ꜰɪʟᴇs ᴛʜᴇɴ ʏᴏᴜ ᴄᴀɴ ᴛᴀᴋᴇ ᴘʀᴇᴍɪᴜᴍ sᴇʀᴠɪᴄᴇ (ɴᴏ ɴᴇᴇᴅ ᴛᴏ ᴠᴇʀɪꜰʏ)</i></b>"""
-
+✨ To remove verify, send /plan 🚀
     THIRDT_VERIFY_COMPLETE_TEXT= """<b><i>👋 ʜᴇʏ {},
     
 ʏᴏᴜ ʜᴀᴠᴇ ᴄᴏᴍᴘʟᴇᴛᴇᴅ ᴛʜᴇ 3ʀᴅ ᴠᴇʀɪꜰɪᴄᴀᴛɪᴏɴ ✓
@@ -269,11 +270,11 @@ Nᴀᴍᴇ - {}
     PREMIUM_TEXT = """<blockquote>🎖️ <b>ᴀᴠᴀɪʟᴀʙʟᴇ ᴘʟᴀɴs</b></blockquote>
 
 
-🥉 Bronze – ₹40 = 1ᴍᴏɴᴛʜ
-🥈 Silver – ₹75 = 2ᴍᴏɴᴛʜ (save ₹5)
-🥇 Gold   - ₹110 = 3ᴍᴏɴᴛʜ (save ₹10)
-💎 Diamond– ₹200 = 6ᴍᴏɴᴛʜ (save ₹40)
-🏆 Platinum–₹800 = ʟɪꜰᴇᴛɪᴍᴇ💥 
+🥉 Bronze – ₹39  = 1ᴍᴏɴᴛʜ
+🥈 Silver – ₹75  = 2ᴍᴏɴᴛʜ 
+🥇 Gold   - ₹110 = 3ᴍᴏɴᴛʜ 
+💎 Diamond– ₹199 = 6ᴍᴏɴᴛʜ 
+🏆 Platinum–₹599 = ʟɪꜰᴇᴛɪᴍᴇ💥 
 
 •─────•─────────•─────•
 💵 ᴜᴘɪ ɪᴅ - ✅ <b><u>grezy8007@okhdfcbank</u></b>
